@@ -80,11 +80,17 @@ backend/
 
 ## 🖼️ Demonstração Visual
 
-### Landing Page com ChatBot
+### Landing Page
 
 ![Landing Page Screenshot](landingPage.png)
+
+### Icone do ChatBot
 ![Landing Page Screenshot](Icone_chat.png)
+
+### Tela do ChatBot - Parte 1
 ![Landing Page Screenshot](telachat.png)
+
+### Tela do ChatBot - Parte 2
 ![Landing Page Screenshot](telaChat_2.png)
 
 ---
