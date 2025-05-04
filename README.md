@@ -15,7 +15,7 @@ Criar um caso de uso conversacional relacionado à FURIA, acessível via web (la
 
 - 📰 Informar as últimas notícias da FURIA
 - 📆 Mostrar os próximos campeonatos
-- 🏆 Exibir posição no ranking mundial e americano
+- 🏆 Exibir posição no ranking mundial e das americas
 - 🛒 Direcionar para a loja oficial de produtos
 - 🧑‍🤝‍🧑 Apresentar a formação atual do elenco
 
