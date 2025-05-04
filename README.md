@@ -46,12 +46,14 @@ frontend/
 ├── src/
 │   ├── App/
 │   │   └── Page.tsx
+│   │   └── favicon.ico
 │   ├── components/
 │   │   ├── Chat.tsx
 │   │   └── Cronometro.tsx
 ├── public/
 │   ├── images/
-│   │   └── ...
+│   │   └── fundo.jpeg
+│   │   └── patera_fone.png
 ├── README.md
 └── package.json
 ```
@@ -63,7 +65,14 @@ backend/
 ├── routes/
 │   └── webhook.py
 ├── services/
-│   └── ...
+│   └── dialogflow_service.py
+│   └── elenco_service.py
+│   └── jogos_service.py
+│   └── json_ranking_service.py
+│   └── json_service.py
+│   └── loja_service.py
+│   └── noticias_service.py
+│   └── ranking_service.py
 └── requirements.txt
 ```
 
@@ -73,7 +82,10 @@ backend/
 
 ### Landing Page com ChatBot
 
-![Landing Page Screenshot](./public/images/landingpage_preview.png)
+![Landing Page Screenshot](landingPage.png)
+![Landing Page Screenshot](Icone_chat.png)
+![Landing Page Screenshot](telachat.png)
+![Landing Page Screenshot](telaChat_2.png)
 
 ---
 
