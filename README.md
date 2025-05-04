@@ -21,6 +21,15 @@ Criar um caso de uso conversacional relacionado à FURIA, acessível via web (la
 
 ---
 
+## 🗺️ Arquitetura e Caso de Uso
+
+## Caso de Uso
+![Arqyitetura Screenshot](desafio_furia_caso_de_uso.png)
+
+## Arquitetura de comunicação
+![Arqyitetura Screenshot](desafio_furia_arquitetura.png)
+
+---
 ## ⚙️ Tecnologias Utilizadas
 
 ### Front-End
@@ -85,13 +94,13 @@ backend/
 ![Landing Page Screenshot](landingPage.png)
 
 ### Icone do ChatBot
-![Landing Page Screenshot](Icone_chat.png)
+![Icone Screenshot](Icone_chat.png)
 
 ### Tela do ChatBot - Parte 1
-![Landing Page Screenshot](telachat.png)
+![telaChat Screenshot](telachat.png)
 
 ### Tela do ChatBot - Parte 2
-![Landing Page Screenshot](telaChat_2.png)
+![Telachat 2 Screenshot](telaChat_2.png)
 
 ---
 
